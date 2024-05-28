@@ -1,4 +1,5 @@
 this row is added from git hub
 test song
 new rows
-I added 2 more lines from local mashine
+I added 2 more lines from local machine
+to check checkout (git hub)
