@@ -1,9 +1,3 @@
 this row is added from git hub
 test song
 new rows
-<<<<<<< HEAD
-=======
-I added 2 more lines from local mashine
-1234568
-9999
->>>>>>> parent of 958d386 (revert testing)
