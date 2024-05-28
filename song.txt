@@ -4,3 +4,4 @@ new rows
 I added 2 more lines from local mashine
 1234568
 9999
+Revert comand testing
