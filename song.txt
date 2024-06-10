@@ -5,3 +5,5 @@ this row is added from git hub\
 check merge conflict1
 
 456 main
+something new from feature1
+
