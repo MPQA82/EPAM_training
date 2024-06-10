@@ -1,2 +1,4 @@
 this row is added from git hub\
 check merge conflict1
+
+something new from feature1
