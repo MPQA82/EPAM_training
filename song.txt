@@ -1,1 +1,2 @@
-this row is added from git hub
+this row is added from git hub\
+check merge conflict1
