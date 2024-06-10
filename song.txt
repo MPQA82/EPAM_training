@@ -7,3 +7,5 @@ check merge conflict1
 456 main
 something new from feature1
 
+789
+
