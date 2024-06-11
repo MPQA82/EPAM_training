@@ -1,12 +1,6 @@
-this row is added from git hub\
-check merge conflict1
-
-something new from feature1
-
-1111111
-
-55555
-
-6666
-
-777
+[Verse 1]
+First things first
+I'ma say all the words inside my head
+I'm fired up and tired of
+The way that things have been, oh-ooh
+The way that things have been, oh-ooh
